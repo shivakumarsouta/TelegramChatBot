@@ -18,7 +18,7 @@ A simple, conversational Telegram bot powered by the Groq API and Telebot (pyTel
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/shivkumars005/TelegramChatBot.git
+git clone https://github.com/shivakumarsouta/TelegramChatBot.git
 cd TelegramChatBot
 ```
 
